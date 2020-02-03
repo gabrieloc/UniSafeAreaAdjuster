@@ -1,0 +1,17 @@
+{
+    "name": "UniSafeAreaAdjuster_Editor",
+    "references": [
+        "GUID:3ec320a19fdbd415cbb546e9cab194e9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Editor"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
